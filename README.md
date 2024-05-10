@@ -1,5 +1,7 @@
 Ruby On Rails Coding Assessment
+
 Description:
+
 Build a simple rails application that consists of a receptionist portal & doctor portal which performs the following tasks,
 A single login page for both portals.
 Receptionists can register a new patient & perform CRUD operations.
